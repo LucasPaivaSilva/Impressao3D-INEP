@@ -1,4 +1,4 @@
-# 3D Printer Lab Repository
+# Impressão 3D do INEP
 
 Bem-vindo ao repositório da impressora 3D do nosso laboratório!
 
